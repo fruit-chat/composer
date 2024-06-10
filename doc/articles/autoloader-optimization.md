@@ -94,7 +94,7 @@ There are a few options to enable this:
 ### What does it do?
 
 This option adds an APCu cache as a fallback for the class map. It will not
-automatically generate the class map though, so you should still enable Level 1
+automatically generate the class map though, so you should still enable Level 
 optimizations manually if you so desire.
 
 Whether a class is found or not, that fact is always cached in APCu, so it can be
